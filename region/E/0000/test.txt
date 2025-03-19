@@ -1,1 +1,1 @@
-valid
+Hello there, This verificationcode is valid. Don't believe me? Just try me, it just has to contain valid.
